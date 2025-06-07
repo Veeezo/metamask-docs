@@ -1,7 +1,7 @@
----
+index.md
 sidebar_position: 7
 description: Debug a Snap by inspecting the background process.
----
+index.md
 
 # Debug a Snap
 
