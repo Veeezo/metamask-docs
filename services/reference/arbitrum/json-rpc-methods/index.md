@@ -1,4 +1,4 @@
----
+---index.md
 sidebar_label: JSON-RPC API
 description: Supported standard Ethereum methods on Arbitrum network.
 ---
