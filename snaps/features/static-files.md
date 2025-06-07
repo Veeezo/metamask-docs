@@ -1,7 +1,7 @@
----
+static-files.md
 description: Include and retrieve static files in the Snap bundle.
 sidebar_position: 12
----
+static-files.md
 
 # Static files
 
