@@ -1,7 +1,7 @@
----
+subscribe-to-events.md
 description: Subscribe to events using WebSockets.
 sidebar_position: 5
----
+subscribe-to-events.md
 
 # Subscribe to events
 
