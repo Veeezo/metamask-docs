@@ -1,6 +1,6 @@
----
+run-devnet.md
 description: Configure and connect to a Hardhat development network.
----
+run-devnet.md
 
 # Run a development network
 
