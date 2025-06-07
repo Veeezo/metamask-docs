@@ -1,4 +1,4 @@
----
+two-factor-authentication.md
 description: Set up two-factor authentication
 sidebar_position: 4
 ---
