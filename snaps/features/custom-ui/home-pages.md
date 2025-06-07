@@ -1,7 +1,7 @@
----
+home-pages.md
 description: Display a dedicated UI page in MetaMask for your Snap.
 sidebar_position: 3
----
+home-pages.md
 
 # Home pages
 
