@@ -1,7 +1,7 @@
----
+user-defined-components.md
 description: Create your own JSX components to improve readability.
 sidebar_position: 5
----
+user-defined-components.md
 
 # User-defined components
 
