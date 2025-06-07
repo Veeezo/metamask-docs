@@ -1,6 +1,6 @@
----
+javascript-dapp-simple.md
 description: Create a simple dapp to integrate with MetaMask.
----
+javascript-dapp-simple.md
 
 # Create a simple dapp
 
