@@ -1,4 +1,4 @@
----
+troubleshoot.md
 description: Troubleshoot account issues
 sidebar_position: 9
 ---
