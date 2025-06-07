@@ -1,7 +1,7 @@
----
+avoid-rate-limiting.md
 description: Tips on how to avoid rate limiting.
 sidebar_position: 1
----
+avoid-rate-limiting.md
 
 # Avoid rate limiting
 
