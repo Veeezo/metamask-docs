@@ -1,4 +1,4 @@
----
+index.md
 description: Send transactions using `eth_sendTransaction`.
 ---
 
