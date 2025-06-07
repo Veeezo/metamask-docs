@@ -1,4 +1,4 @@
----
+---call-a-contract.md
 description: Use Web3.js to execute a smart contract function.
 sidebar_position: 3
 ---
