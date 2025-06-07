@@ -1,6 +1,6 @@
----
+wallet-interoperability.md
 description: Learn about wallet interoperability via EIP-6963.
----
+wallet-interoperability.md
 
 # Wallet interoperability
 
