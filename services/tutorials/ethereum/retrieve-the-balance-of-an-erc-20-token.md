@@ -1,4 +1,4 @@
----
+---retrieve-the-balance-of-an-erc-20-token.md
 description: Retrieve the balance of an ERC-20 token.
 sidebar_position: 6
 ---
