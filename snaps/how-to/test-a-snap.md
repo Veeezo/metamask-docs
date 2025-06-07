@@ -1,7 +1,7 @@
----
+-test-a-snap.md
 description: Use Jest for end-to-end Snap testing.
 sidebar_position: 6
----
+test-a-snap.md
 
 # Test a Snap
 
