@@ -1,7 +1,7 @@
----
+known-errors.md
 description: See the Snaps known errors reference
 sidebar_position: 6
----
+known-errors.md
 
 # Snaps known errors
 
