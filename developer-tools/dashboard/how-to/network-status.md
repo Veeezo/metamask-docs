@@ -1,4 +1,4 @@
----
+network-status.md
 description: View the network status
 sidebar_position: 8
 ---
