@@ -1,6 +1,6 @@
----
+multichain-api.md
 description: See the Multichain API reference.
----
+multichain-api.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
