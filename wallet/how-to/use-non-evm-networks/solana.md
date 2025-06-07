@@ -1,6 +1,6 @@
----
+solana.md
 description: Interact with users' Solana accounts in MetaMask.
----
+solana.md
 
 # Solana
 
