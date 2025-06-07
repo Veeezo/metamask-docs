@@ -1,6 +1,6 @@
----
+starknet-snap-api.md
 description: See the Starknet Snap API reference.
----
+starknet-snap-api.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
