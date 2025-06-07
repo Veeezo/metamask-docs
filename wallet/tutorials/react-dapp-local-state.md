@@ -1,6 +1,6 @@
----
+react-dapp-local-state.md
 description: Create a single component React dapp with local state using EIP-6963.
----
+react-dapp-local-state.md
 
 # Create a React dapp with local state
 
