@@ -1,4 +1,4 @@
----
+credit-usage.md
 description: View your Infura credit usage stats.
 ---
 
