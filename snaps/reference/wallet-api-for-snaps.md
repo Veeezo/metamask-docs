@@ -1,8 +1,8 @@
----
+wallet-api-for-snaps.md
 description: See the Wallet API for Snaps reference.
 sidebar_position: 2
 toc_max_heading_level: 2
----
+wallet-api-for-snaps.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
