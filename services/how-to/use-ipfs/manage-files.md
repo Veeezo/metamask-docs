@@ -1,4 +1,4 @@
----
+manage-files.md
 description: Manage files using IPFS.
 sidebar_position: 3
 ---
