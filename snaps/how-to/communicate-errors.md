@@ -1,7 +1,7 @@
----
+communicate-errors.md
 description: Communicate errors from your Snap without crashing it.
 sidebar_position: 2
----
+communicate-errors.md
 
 # Communicate errors
 
