@@ -1,6 +1,6 @@
----
+tokens.md
 description: Display a user's ERC-20 tokens or NFTs.
----
+tokens.md
 
 # Display tokens
 
