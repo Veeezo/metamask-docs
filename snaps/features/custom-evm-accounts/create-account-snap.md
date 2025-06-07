@@ -1,9 +1,9 @@
----
+create-account-snap.md
 description: Get started by creating an account management Snap.
 sidebar_position: 1
 tags:
   - Keyring API
----
+create-account-snap.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
