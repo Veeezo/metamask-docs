@@ -1,7 +1,7 @@
----
+localization.md
 description: Display your Snap's UI and metadata in the user's language.
 sidebar_position: 7
----
+localization.md
 
 # Localization
 
