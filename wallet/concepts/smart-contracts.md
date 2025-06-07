@@ -1,6 +1,6 @@
----
+smart-contracts.md
 description: Learn about interacting with smart contracts.
----
+smart-contracts.md
 
 # Smart contracts
 
