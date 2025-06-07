@@ -1,6 +1,6 @@
----
+secure-dapp.md
 description: Secure your dapp using HTTPS and CSP.
----
+secure-dapp.md
 
 # Secure your dapp
 
