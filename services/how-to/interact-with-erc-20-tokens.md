@@ -1,7 +1,7 @@
----
+interact-with-erc-20-tokens.md
 description: Interact with ERC 20 tokens
 sidebar_position: 3
----
+interact-with-erc-20-tokens.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem"
