@@ -1,4 +1,4 @@
----
+---authenticate-with-jwt.md
 description: Apply a JWT to authenticate an API request.
 sidebar_position: 1
 ---
