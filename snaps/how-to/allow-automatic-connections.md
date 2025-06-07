@@ -1,7 +1,7 @@
----
+allow-automatic-connections.md
 description: Authorize specific websites to automatically connect to a Snap.
 sidebar_position: 5
----
+allow-automatic-connections.md
 
 # Allow automatic connections
 
