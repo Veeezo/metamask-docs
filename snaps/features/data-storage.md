@@ -1,7 +1,7 @@
----
+data-storage.md
 description: Store encrypted and unencrypted data within a Snap.
 sidebar_position: 5
----
+data-storage.md
 
 # Data storage
 
