@@ -1,9 +1,9 @@
----
+cli.md
 sidebar_label: Snaps CLI
 sidebar_position: 3
 toc_max_heading_level: 4
 description: See the Snaps CLI subcommands reference.
----
+cli.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
