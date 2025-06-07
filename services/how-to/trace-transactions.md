@@ -1,7 +1,7 @@
----
+trace-transactions.md
 description: Trace transactions
 sidebar_position: 6
----
+trace-transactions.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
