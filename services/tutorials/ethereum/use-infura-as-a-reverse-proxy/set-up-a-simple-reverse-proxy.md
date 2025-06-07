@@ -1,4 +1,4 @@
----
+---set-up-a-simple-reverse-proxy.md
 description: Use Caddy to set up a reverse proxy.
 ---
 
