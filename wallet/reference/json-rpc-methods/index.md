@@ -1,7 +1,7 @@
----
+index.md
 sidebar_class_name: "hidden"
 description: See the MetaMask JSON-RPC API reference.
----
+index.md
 
 # JSON-RPC API
 
