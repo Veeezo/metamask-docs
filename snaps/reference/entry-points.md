@@ -1,7 +1,7 @@
----
+entry-points.md
 description: See the Snaps entry points reference.
 sidebar_position: 4
----
+entry-points.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
