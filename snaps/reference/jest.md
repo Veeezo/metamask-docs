@@ -1,7 +1,7 @@
----
+jest.md
 description: See the Jest API and options reference.
 sidebar_position: 8
----
+jest.md
 
 # Jest API and options
 
