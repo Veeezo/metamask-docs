@@ -1,7 +1,7 @@
----
+network-access.md
 description: Access the internet using the fetch function.
 sidebar_position: 8
----
+network-access.md
 
 # Network access
 
