@@ -1,6 +1,6 @@
----
+manage-starknet-networks.md
 description: Manage Starknet networks in MetaMask.
----
+manage-starknet-networks.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
