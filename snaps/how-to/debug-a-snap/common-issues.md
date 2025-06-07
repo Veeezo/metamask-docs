@@ -1,7 +1,7 @@
----
+common-issues.md
 description: Solve common issues encountered by Snap developers.
 sidebar_position: 1
----
+common-issues.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
