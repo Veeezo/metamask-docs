@@ -1,8 +1,8 @@
----
+restrict-rpc-api.md
 description: Restrict your Snap's RPC API methods.
 sidebar_label: Restrict RPC API methods
 sidebar_position: 4
----
+restrict-rpc-api.md
 
 # Restrict a Snap's RPC API methods
 
