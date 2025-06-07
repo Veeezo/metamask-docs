@@ -1,7 +1,7 @@
----
+use-environment-variables.md
 sidebar_position: 3
 description: Set environment variables on the command line or in a `.env` file.
----
+use-environment-variables.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
