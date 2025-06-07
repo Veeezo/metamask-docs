@@ -1,4 +1,4 @@
----
+siwe.md
 description: Enable your users to sign in with Ethereum.
 ---
 
