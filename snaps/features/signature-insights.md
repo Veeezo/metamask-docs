@@ -1,7 +1,7 @@
----
+signature-insights.md
 description: Provide insights to your users in MetaMask's signature confirmation flow.
 sidebar_position: 11
----
+signature-insights.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
