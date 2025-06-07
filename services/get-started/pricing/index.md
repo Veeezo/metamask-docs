@@ -1,6 +1,6 @@
----
+index.md
 description: Infura's credit pricing model.
----
+index.md
 
 # Pricing
 
