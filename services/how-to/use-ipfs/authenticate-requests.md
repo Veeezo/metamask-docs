@@ -1,7 +1,7 @@
----
+authenticate-requests.md
 description: Authenticate your requests to the IPFS network.
 sidebar_position: 2
----
+authenticate-requests.md
 
 # Authenticate requests
 
