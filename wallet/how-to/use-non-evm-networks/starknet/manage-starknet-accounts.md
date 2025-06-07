@@ -1,6 +1,6 @@
----
+connect-to-starknet.md
 description: Manage Starknet accounts in MetaMask.
----
+connect-to-starknet.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
