@@ -1,4 +1,4 @@
-# Public gateway
+public-gateway.md
 
 :::info
 
