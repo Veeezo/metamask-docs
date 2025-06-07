@@ -1,7 +1,7 @@
----
+custom-name-resolution.md
 description: Resolve names to addresses and vice versa.
 sidebar_position: 3
----
+custom-name-resolution.md
 
 # Custom name resolution
 
