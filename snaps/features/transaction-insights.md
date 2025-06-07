@@ -1,8 +1,8 @@
----
+transaction-insights.md
 description: Provide transaction insights in MetaMask's transaction confirmation window.
 toc_max_heading_level: 4
 sidebar_position: 13
----
+transaction-insights.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
