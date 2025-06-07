@@ -1,9 +1,9 @@
----
+objects.md
 sidebar_position: 1
 sidebar_label: Objects
 tags:
   - Keyring API
----
+objects.md
 
 # Account Management API objects
 
