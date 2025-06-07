@@ -1,6 +1,6 @@
----
+provider-api.md
 description: See the MetaMask Ethereum provider API reference.
----
+provider-api.md
 
 # Ethereum provider API
 
