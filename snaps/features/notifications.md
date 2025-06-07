@@ -1,7 +1,7 @@
----
+notifications.md
 description: Notify users directly in MetaMask, or natively in their OS.
 sidebar_position: 10
----
+notifications.md
 
 # Notifications
 
