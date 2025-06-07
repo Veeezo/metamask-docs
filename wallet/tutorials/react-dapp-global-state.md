@@ -1,7 +1,7 @@
----
+react-dapp-global-state.md
 description: Create a multi-component React dapp with global state using EIP-6963.
 toc_max_heading_level: 4
----
+react-dapp-global-state.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
