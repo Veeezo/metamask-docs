@@ -1,4 +1,4 @@
----
+detect-network.md
 description: Detect a user's network and network changes.
 ---
 
