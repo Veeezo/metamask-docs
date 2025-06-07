@@ -1,6 +1,6 @@
----
+about-get-starknet.md
 description: Simplify the MetaMask onboarding experience for your users.
----
+about-get-starknet.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
