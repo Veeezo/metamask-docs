@@ -1,9 +1,9 @@
----
+index.md
 description: Connect to custom EVM accounts using the Keyring API.
 sidebar_position: 2
 tags:
   - Keyring API
----
+index.md
 
 # Custom EVM accounts
 
