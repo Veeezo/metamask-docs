@@ -1,9 +1,9 @@
----
+known-errors.md
 description: See the Keyring API reference.
 sidebar_position: 7
 tags:
   - Keyring API
----
+known-errors.md
 
 # Keyring API
 
