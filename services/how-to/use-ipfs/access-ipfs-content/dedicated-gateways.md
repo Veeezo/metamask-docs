@@ -1,4 +1,4 @@
-# Dedicated gateways
+dedicated-gateways.md
 
 Dedicated gateways are project-specific.
 
