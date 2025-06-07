@@ -1,7 +1,7 @@
----
+publish-a-snap.md
 description: Publish a Snap to npm.
 sidebar_position: 8
----
+publish-a-snap.md
 
 # Publish a Snap
 
