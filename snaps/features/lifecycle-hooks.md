@@ -1,7 +1,7 @@
----
+lifecycle-hooks.md
 sidebar_position: 6
 description: Call an action when your Snap is installed or updated.
----
+lifecycle-hooks.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
