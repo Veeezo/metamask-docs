@@ -1,4 +1,4 @@
----
+---deploy-an-nft-smart-contract-on-palm.md
 description: Deploy an NFT smart contract on Palm using Hardhat.
 ---
 
