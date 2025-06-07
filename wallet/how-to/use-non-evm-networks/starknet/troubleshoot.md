@@ -1,7 +1,7 @@
----
+troubleshoot.md
 description: Troubleshoot common Starknet issues.
 toc_max_heading_level: 4
----
+troubleshoot.md
 
 # Troubleshoot
 
