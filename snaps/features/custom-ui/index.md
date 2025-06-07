@@ -1,7 +1,7 @@
----
+index.md
 description: Display custom user interface components using JSX.
 sidebar_position: 4
----
+index.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
