@@ -1,4 +1,4 @@
----
+add-network.md
 description: Prompt a user to add or switch to an Ethereum network.
 ---
 
