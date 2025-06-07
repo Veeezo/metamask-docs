@@ -1,4 +1,4 @@
----
+---use-rust.md
 title: "Use Rust"
 description: A tutorial for legacy and EIP-1559 transactions.
 ---
