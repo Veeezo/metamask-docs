@@ -1,6 +1,6 @@
----
+index.md
 description: Interact with users' accounts on non-EVM networks.
----
+index.md
 
 import CardList from "@site/src/components/CardList"
 
