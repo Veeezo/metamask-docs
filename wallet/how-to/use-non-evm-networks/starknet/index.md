@@ -1,6 +1,6 @@
----
+index.md
 description: Interact with users' Starknet accounts in MetaMask.
----
+index.md
 
 # Starknet
 
