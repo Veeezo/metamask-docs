@@ -1,7 +1,7 @@
----
+permissions.md
 description: See the Snaps permissions reference.
 sidebar_position: 5
----
+permissions.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
