@@ -1,7 +1,7 @@
----
+enable-api-forwarding.md
 description: Enable API forwarding
 sidebar_position: 7
----
+enable-api-forwarding.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
