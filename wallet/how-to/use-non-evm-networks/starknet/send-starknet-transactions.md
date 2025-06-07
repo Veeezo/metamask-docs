@@ -1,6 +1,6 @@
----
+send-starknet-transactions.md
 description: Send Starknet transactions in MetaMask.
----
+send-starknet-transactions.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
