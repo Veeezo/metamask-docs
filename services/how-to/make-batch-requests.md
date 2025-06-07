@@ -1,7 +1,7 @@
----
+make-batch-requests.md
 description: Make batch requests
 sidebar_position: 4
----
+make-batch-requests.md
 
 # Make batch requests
 
