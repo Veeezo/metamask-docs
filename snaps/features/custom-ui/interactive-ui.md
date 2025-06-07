@@ -1,7 +1,7 @@
----
+interactive-ui.md
 description: Display and update interactive user interfaces.
 sidebar_position: 1
----
+interactive-ui.md
 
 # Interactive UI
 
