@@ -1,7 +1,7 @@
----
+snaps-api.md
 description: See the Snaps API reference.
 sidebar_position: 1
----
+snaps-api.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
