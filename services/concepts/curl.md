@@ -1,7 +1,7 @@
 ---
 description: Learning about curl
 sidebar_position: 5
----
+---curl.md
 
 # curl
 
