@@ -1,7 +1,7 @@
 ---
 description: Learn about different types of Ethereum transactions.
 sidebar_position: 4
----
+transaction-types.md
 
 # Ethereum transaction types
 
