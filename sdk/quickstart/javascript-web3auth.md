@@ -1,4 +1,4 @@
----
+javascript-web3auth.md
 sidebar_label: Web3Auth SDK integration
 description: Quickstart guide for using MetaMask SDK and Web3Auth SDK.
 toc_max_heading_level: 2
