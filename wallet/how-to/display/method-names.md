@@ -1,6 +1,6 @@
----
+method-names.md
 description: Register a contract's method names with users.
----
+method-names.md
 
 # Display a contract's method names
 
