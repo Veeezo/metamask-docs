@@ -1,6 +1,6 @@
----
+multichain-api.md
 description: Learn about the Multichain API.
----
+multichain-api.md
 
 # About the Multichain API
 
