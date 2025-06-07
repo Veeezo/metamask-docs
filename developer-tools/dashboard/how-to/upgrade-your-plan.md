@@ -1,4 +1,4 @@
----
+upgrade-your-plan.md
 description: Upgrade your Infura plan.
 sidebar_position: 7
 ---
