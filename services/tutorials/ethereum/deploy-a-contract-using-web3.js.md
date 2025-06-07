@@ -1,4 +1,4 @@
----
+---deploy-a-contract-using-web3.js.md
 description: Create and deploy a smart contract.
 sidebar_position: 2
 ---
