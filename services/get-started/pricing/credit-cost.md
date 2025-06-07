@@ -1,6 +1,6 @@
----
+credit-cost.md
 description: API method credit cost.
----
+credit-cost.md
 
 # Credit costs
 
