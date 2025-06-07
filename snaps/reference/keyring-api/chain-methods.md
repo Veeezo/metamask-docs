@@ -1,8 +1,8 @@
----
+chain-methods.md
 sidebar_position: 2
 tags:
   - Keyring API
----
+chain-methods.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
