@@ -1,7 +1,7 @@
----
+dialogs.md
 description: Display custom alert, confirmation, or prompt screens in MetaMask.
 sidebar_position: 2
----
+dialogs.md
 
 # Dialogs
 
