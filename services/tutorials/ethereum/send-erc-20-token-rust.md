@@ -1,4 +1,4 @@
----
+---send-erc-20-token-rust.md
 description: A tutorial for sending ERC-20 tokens.
 sidebar_position: 7
 ---
