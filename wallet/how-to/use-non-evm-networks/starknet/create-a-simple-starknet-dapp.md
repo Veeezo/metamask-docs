@@ -1,6 +1,6 @@
----
+create-a-simple-starknet-dapp.md
 description: Create a simple dapp using get-starknet and React TypeScript.
----
+create-a-simple-starknet-dapp.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
