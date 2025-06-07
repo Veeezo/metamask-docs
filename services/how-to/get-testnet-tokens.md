@@ -1,7 +1,7 @@
----
+get-testnet-tokens.md
 description: How to get testnet ETH and other test tokens for various networks.
 sidebar_position: 2
----
+get-testnet-tokens.md
 
 # Get testnet ETH and tokens
 
