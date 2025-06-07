@@ -1,6 +1,6 @@
----
+about-get-starknet.md
 description: Learn about how get-starknet interacts with MetaMask.
----
+about-get-starknet.md
 
 # About `get-starknet`
 
