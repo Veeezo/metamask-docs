@@ -1,9 +1,9 @@
----
+config-options.md
 sidebar_label: Configuration options
 sidebar_position: 4
 toc_max_heading_level: 4
 description: See the Snaps configuration options reference.
----
+config-options.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
