@@ -1,7 +1,7 @@
----
+non-evm-networks.md
 description: Manage users' non-EVM accounts and assets.
 sidebar_position: 9
----
+non-evm-networks.md
 
 # Non-EVM networks
 
