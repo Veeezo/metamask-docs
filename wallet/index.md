@@ -1,4 +1,4 @@
----
+index.md
 slug: /
 description: Introduction page for the Wallet API documentation.
 ---
