@@ -1,6 +1,6 @@
----
+manage-permissions.md
 description: Request and revoke permissions to call restricted methods.
----
+manage-permissions.md
 
 # Manage permissions
 
