@@ -1,7 +1,7 @@
----
+request-permissions.md
 description: Request permissions in a manifest file.
 sidebar_position: 1
----
+request-permissions.md
 
 # Request permissions
 
