@@ -1,6 +1,6 @@
----
+signing-methods.md
 description: Learn about the RPC methods for signing transactions in MetaMask.
----
+signing-methods.md
 
 # Signing methods
 
