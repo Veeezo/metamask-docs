@@ -1,7 +1,7 @@
----
+json-web-token-jwt.md
 description: Use JSON Web Tokens to secure data exchange.
 sidebar_position: 9
----
+json-web-token-jwt.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
