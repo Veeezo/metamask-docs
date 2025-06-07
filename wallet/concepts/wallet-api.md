@@ -1,6 +1,6 @@
----
+wallet-api.md
 description: Learn about the MetaMask Ethereum provider API and JSON-RPC API.
----
+wallet-api.md
 
 # About the Wallet API
 
