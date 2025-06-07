@@ -1,6 +1,6 @@
----
+send-batch-transactions.md
 description: Send atomic batch transactions using `wallet_sendCalls`.
----
+send-batch-transactions.md
 
 # Send batch transactions
 
