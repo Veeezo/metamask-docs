@@ -1,7 +1,7 @@
----
+connect-to-a-snap.md
 description: Connect your dapp to existing, third-party Snaps.
 sidebar_position: 10
----
+connect-to-a-snap.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
