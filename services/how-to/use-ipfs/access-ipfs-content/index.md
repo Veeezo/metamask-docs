@@ -1,4 +1,4 @@
-# Access IPFS content
+index.md
 
 Access files on the IPFS network with gateways.
 
