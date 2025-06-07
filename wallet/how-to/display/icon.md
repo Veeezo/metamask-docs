@@ -1,6 +1,6 @@
----
+icon.md
 description: Set an icon on MetaMask for your dapp.
----
+icon.md
 
 # Display a dapp icon
 
