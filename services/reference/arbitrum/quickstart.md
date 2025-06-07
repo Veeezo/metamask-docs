@@ -1,4 +1,4 @@
----
+---quickstart.md
 description: Arbitrum quickstart guide
 sidebar_label: Quickstart
 sidebar_position: 2
