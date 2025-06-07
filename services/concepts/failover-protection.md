@@ -1,4 +1,4 @@
----
+failover-protection.md
 description: Learn about failover protection
 sidebar_position: 1
 ---
