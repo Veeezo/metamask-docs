@@ -1,6 +1,6 @@
----
+sign-starknet-data.md
 description: Sign Starknet transactions in MetaMask.
----
+sign-starknet-data.md
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
