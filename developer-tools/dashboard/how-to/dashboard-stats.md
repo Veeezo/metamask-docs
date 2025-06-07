@@ -1,4 +1,4 @@
----
+dashboard-stats.md
 description: View your Infura usage stats.
 ---
 
