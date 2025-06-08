@@ -1,4 +1,4 @@
----
+---quickstart.md
 description: Avalanche C-Chain quickstart guide
 sidebar_position: 2
 sidebar_label: Quickstart
