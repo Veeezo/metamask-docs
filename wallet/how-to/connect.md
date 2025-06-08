@@ -1,4 +1,4 @@
----
+---connect.md
 description: Connect to MetaMask using the Wallet API and EIP-6963.
 toc_max_heading_level: 4
 ---
