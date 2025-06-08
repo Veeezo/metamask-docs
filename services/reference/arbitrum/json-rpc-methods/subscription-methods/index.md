@@ -1,4 +1,4 @@
----
+---index.md
 sidebar_label: "Subscription methods"
 ---
 
