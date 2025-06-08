@@ -1,4 +1,4 @@
----
+---index.md
 title: Avalanche (C-Chain) JSON-RPC API
 sidebar_label: JSON-RPC API
 ---
